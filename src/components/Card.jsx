@@ -1,8 +1,7 @@
-export default function Card() {
+export default function Card(props) {
     return (
-        <div>
-            <h2>Card Component</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam reprehenderit nisi fugiat.</p>
+        <div class="bg-white p-4 text-center rounded-md shadow-md">
+             {props.children}
         </div>
     )
 }

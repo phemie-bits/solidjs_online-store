@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
@@ -33,6 +32,3 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
-=======
-# solidjs_online-store
->>>>>>> origin/main
