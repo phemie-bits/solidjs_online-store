@@ -1,0 +1,61 @@
+{
+    "products":[
+      {
+        "id": 1,
+        "title": "Viatu, Black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 12,
+        "img": "/src/assets/mitchel-lensink-1BI-ar91C7U-unsplash.png"
+      },
+      {
+        "id": 2,
+        "title": "Viatu, Green",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 12,
+        "img": "/src/assets/felipepelaquim-6zO5VKogoZE-unsplash.png"
+      },
+      {
+        "id": 3,
+        "title": "Viatu, Brown",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "/src/assets/radek-skrzypczak-WlB8TsI_th0-unsplash.png"
+      },
+      {
+        "id": 4,
+        "title": "Viatu, Grey",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "/src/assets/andres-jasso-PqbL_mxmaUE-unsplash.png"
+      },
+      {
+        "id": 5,
+        "title": "Viatu, White",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "/src/assets/xavier-teo-SxAXphIPWeg-unsplash.png"
+      },
+      {
+        "id": 6,
+        "title": "Viatu, Yellow",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "/src/assets/lefteris-kallergis-j1GiPlvSGWI-unsplash.png"
+      },
+      {
+        "id": 7,
+        "title": "Viatu, Dark-white",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "/src/assets/whereslugo-6QvRVC-6_Vo-unsplash.png"
+      },
+      {
+        "id": 8,
+        "title": "Viatu, Light-brown",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "/src/assets/jia-ye-erHlzWCN6zQ-unsplash.png"
+      }
+      
+    ]
+  }

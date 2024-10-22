@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* 21:32 21/10/2024 Notice any css class defined here can be called and used in any other jsx file in this project */
 
 body {
   margin: 40px;
