@@ -2,11 +2,20 @@
 import { createSignal } from 'solid-js';
 import banner from './assets/fachry-zella-devandra-bNSdIkCBJOs-unsplash.png'
 import { A } from '@solidjs/router';
+import { useCartContext } from './context/CartContext';
 
 function App(props) {
   const [darkTheme, setDarkTheme] = createSignal(false);
   function toggleTheme(){
     setDarkTheme(!darkTheme());
+  }
+
+  const {items} = useCartContext()
+
+  const quantity =()=> {//derived value
+     return items.reduce((accumulator, current) => {
+       return accumulator + current.quantity
+     }, 0)
   }
   
 
@@ -26,7 +35,7 @@ function App(props) {
         <h1>Solid Store</h1>
         
         <A href="/">Home</A>
-        <A href="/cart">Cart</A>
+        <A href="/cart">Cart ({quantity()})</A>
       </header>
       <img class="rounded-md" src={banner}></img>
       {props.children} 
