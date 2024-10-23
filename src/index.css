@@ -15,3 +15,11 @@ body {
     inline-block 
     text-white 
 }
+
+.btn_clicked {
+  @apply 
+    bg-white 
+    py-2 px-3 my-2 
+    inline-block 
+    text-black
+}

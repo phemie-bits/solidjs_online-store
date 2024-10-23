@@ -22,7 +22,7 @@ function App(props) {
   return (
     <div class="container m-auto bg">
       <header 
-         class="my-4 p-2 text-x1 flex items-center gap-4"
+         class="my-4 p-2 text-x1 flex items-center justify-between gap-4"
          classList={{"bg-neutral-900": darkTheme(), "text-white":darkTheme()}}
       >
         <span 
@@ -33,9 +33,11 @@ function App(props) {
         </span>
 
         <h1>Solid Store</h1>
-        
-        <A href="/">Home</A>
-        <A href="/cart">Cart ({quantity()})</A>
+
+        <div class="flex gap-4 ">
+           <A href="/">Home</A>
+           <A href="/cart">Cart ({quantity()})</A>
+        </div>
       </header>
       <img class="rounded-md" src={banner}></img>
       {props.children} 
